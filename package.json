@@ -16,7 +16,7 @@
     "vue": "eslint --ext .vue src"
   },
   "dependencies": {
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "vue": "^2.5.2",
     "vue-class-component": "^6.0.0",
     "vue-property-decorator": "^6.0.0",
